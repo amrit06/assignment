@@ -1,0 +1,108 @@
+
+
+html{
+    background-color: white; 
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 100%;
+    color:black;
+}
+    
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+h1{
+    font-size: 180%;
+}
+
+h2{
+    font-size: 120%;
+    font-family: Georgia;
+    color: darkslateblue;
+    clear: both;
+}
+
+#image1{
+    float: left;
+}
+
+#image2{
+    float: right;
+}
+
+figcaption{
+    font-style: italic;
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+}
+
+blockquote{
+    font-style: italic;
+    padding-bottom: 15px;
+    border: none;
+    
+}
+blockquote::first-letter{
+    font-size: 200%;
+    color: #ff0000;
+    font-family: 'Times New Roman', serif;
+}
+
+section > ol{
+    background-color: lightgray; 
+    margin-left:10px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+ul{
+    line-height: 200%;
+}
+
+table{
+    width: 50%;
+    text-align: left;
+    background-color: lightgray;
+}
+caption{
+    text-align: center;
+}
+th{
+    background-color: silver;
+}
+th,td{
+    padding: 5px;
+}
+strong{
+    color: darkslateblue;
+}
+
+nav{
+    background-color: lightgray;
+    color: darkslateblue;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    
+}
+
+a{
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+a:hover{
+color: white;
+background-color: darkslateblue;
+}
+
+
+
+
+
