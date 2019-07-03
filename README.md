@@ -1,4 +1,3 @@
 # assignment
-test 1
-new to github. testing assignment uplaod.
+this is first branch of assignment. going to merge this to master 
 
